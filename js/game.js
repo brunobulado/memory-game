@@ -13,6 +13,8 @@ const characters = [
   'summer',
   'meeseeks',
   'scroopy',
+  'joyce',
+  'leonard',
 ];
 
 const createElement = (tag, className) => {
